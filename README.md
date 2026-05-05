@@ -48,7 +48,6 @@ Web Applications              →   React PWAs, deployed on Vercel with CI/CD
 | Project | Description | Stack |
 |---|---|---|
 | [Newborn Weight Model](https://github.com/davideincaini/statistical-model-birthweight) | Linear regression with full assumption validation — normality, homoscedasticity, leverage analysis | R |
-| [Texas Real Estate EDA](https://github.com/davideincaini/real-estate-texas) | Exploratory analysis of real estate market data — time series, regional comparisons | R |
 | [Superstore Dashboard](https://github.com/davideincaini/tableau-superstore) | Interactive sales performance dashboard — drill-down by region, category, discount impact analysis | Tableau |
 
 ### 💹 Web Applications
