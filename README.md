@@ -66,7 +66,7 @@ Web Applications              →   React PWAs, deployed on Vercel with CI/CD
 **Visualization:** matplotlib · seaborn · ggplot2 · Recharts · Tableau  
 **NLP:** spaCy · nltk · TF-IDF  
 **Hardware:** ESP32 · MPU6050 · I2C protocols  
-**Tools:** Git · GitHub Actions · Vercel · Google Colab · VS Code · PlatformIO  
+**Tools:** Git · GitHub Actions · Vercel · Google Colab · VS Code · PlatformIO · Claude Code
 
 ---
 
