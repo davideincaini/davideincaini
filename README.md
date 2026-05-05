@@ -62,7 +62,6 @@ Big Data                      →   PySpark distributed pipelines
 
 - 🏗️ 7 years in composite materials manufacturing (prepreg, autoclave, bonding, NDT)
 - 📚 Currently completing a professional Master's in Data Science
-- 🔧 Building IMU-based motion analysis systems from scratch (0 electronics experience → working prototype)
 - 📍 Based in Marche, Italy
 
 ---
