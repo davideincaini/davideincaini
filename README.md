@@ -59,6 +59,8 @@ Big Data                      →   PySpark distributed pipelines
 
 ## Background
 
+- 🎓 BSc in Chemistry
+- 🏗️ Postgraduate specialization in Composite Materials Engineering
 - 🏗️ 7 years in composite materials manufacturing (prepreg, autoclave, bonding, NDT)
 - 📚 Currently completing a professional Master's in Data Science
 - 📍 Based in Marche, Italy
