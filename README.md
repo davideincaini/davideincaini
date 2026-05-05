@@ -27,7 +27,7 @@ Big Data                      →   PySpark distributed pipelines
 | [Nesting Calculator](https://github.com/davideincaini/Nesting_calculator) | Prepreg ply nesting optimization | JavaScript |
 | [Ply Thickness Calculator](https://github.com/davideincaini/ply_thickness) | Composite laminate thickness estimator | HTML/JS |
 | [Stats Chart](https://github.com/davideincaini/Stats-Chart) | EDA and statistical visualization for process data | JavaScript |
-| [IMU Motion Analysis](https://github.com/davideincaini/imu-motion-analysis) | Inertial sensor data acquisition — ESP32 + MPU6050 | Python / C++ |
+
 
 ### 📊 Machine Learning & Data Science
 | Project | Description | Stack |
