@@ -54,7 +54,7 @@ Web Applications              →   React PWAs, deployed on Vercel with CI/CD
 
 | Project | Description | Stack | Deploy |
 |---|---|---|---|
-| [ETF Tracker](https://github.com/davideincaini/ETF_Tracker) | ETF portfolio tracker + smart PAC manager — greedy buy-only rebalancing algorithm, live prices via Yahoo Finance | React · Vite · Tailwind | [Live ↗](https://etf-tracker-three.vercel.app) |
+| [ETF Tracker](https://github.com/davideincaini/ETF_Tracker) | ETF portfolio tracker + smart PAC manager — greedy buy-only rebalancing algorithm, live prices via Yahoo Finance | React · Vite · Tailwind | JavaScript · PWA | 
 
 ---
 
