@@ -76,8 +76,6 @@ Web Applications              →   React PWAs, deployed on Vercel with CI/CD
 - 🏗️ Postgraduate specialization in Composite Materials Engineering
 - 🏭 7 years in composite materials manufacturing (prepreg, autoclave, bonding, NDT)
 - 📚 Currently completing a professional Master's in Data Science
-- 🔧 Building IMU-based motion analysis systems from scratch (0 electronics experience → working prototype)
-- 📍 Based in Marche, Italy
 
 ---
 
