@@ -42,7 +42,6 @@ Big Data                      →   PySpark distributed pipelines
 | Project | Description | Stack |
 |---|---|---|
 | [Newborn Weight Model](https://github.com/davideincaini/statistical-model-birthweight) | Linear regression with full assumption validation | R |
-| [Texas Real Estate EDA](https://github.com/davideincaini/real-estate-texas) | Exploratory analysis of real estate market data | R |
 | [Superstore Dashboard](https://github.com/davideincaini/tableau-superstore) | Interactive sales performance dashboard | Tableau |
 
 ---
