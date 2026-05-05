@@ -1,6 +1,6 @@
 # Davide Incaini
 
-**Process & Manufacturing Engineer** with 7 years of hands-on experience in composite materials production — R&D,autoclave processing, defect analysis, quality control, and full production cycle management.
+**Process & Manufacturing Engineer** with 7 years of hands-on experience in composite materials production — autoclave processing, defect analysis, quality control, and full production cycle management.
 
 Over the past two years, I've been systematically building a data-driven layer on top of my engineering background: statistical process control, predictive analysis, and automation of manufacturing workflows. My goal is to close the gap between shop-floor knowledge and data intelligence.
 
@@ -15,6 +15,7 @@ Sensor Systems                →   IMU/MEMS data acquisition and signal process
 Statistical Modeling          →   Regression, hypothesis testing, Python & R
 NLP & Text Processing         →   Classification pipelines, end-to-end preprocessing
 Big Data                      →   PySpark distributed pipelines
+SQL & Databases               →   Relational feature engineering, multi-table aggregation
 Web Applications              →   React PWAs, deployed on Vercel with CI/CD
 ```
 
@@ -29,6 +30,7 @@ Web Applications              →   React PWAs, deployed on Vercel with CI/CD
 | [Nesting Calculator](https://github.com/davideincaini/Nesting_calculator) | Prepreg ply nesting optimization at 0° and 45° — minimizes material waste, works offline on iPhone | JavaScript · PWA |
 | [Ply Thickness Calculator](https://github.com/davideincaini/ply_thickness) | Cured ply thickness and fiber volume fraction from material specs — rule of mixtures, material database | JavaScript · PWA |
 | [Stats & Charts](https://github.com/davideincaini/Stats-Chart) | EDA toolkit: descriptive stats, normality testing, outlier detection, correlation matrix, 15 chart types | JavaScript · PWA |
+| [IMU Motion Analysis](https://github.com/davideincaini/imu-motion-analysis) | Inertial sensor data acquisition and signal processing — ESP32 + MPU6050, built from 0 electronics experience | Python · C++ |
 
 ### 📊 Machine Learning & Data Science
 
@@ -39,6 +41,7 @@ Web Applications              →   React PWAs, deployed on Vercel with CI/CD
 | [Face Detection](https://github.com/davideincaini/face-detection-hog-svm) | HOG feature extraction + SVM classifier with sliding window and multi-scale detection | Python |
 | [Spam Detection](https://github.com/davideincaini/spam-detection-nlp) | End-to-end NLP pipeline — spaCy preprocessing, TF-IDF, multi-model comparison (NB, LR, SVC, MLP) | Python |
 | [Wikipedia Classification](https://github.com/davideincaini/wikipedia-bigdata) | Large-scale article classification with PySpark MLlib — distributed pipeline, lazy evaluation | PySpark |
+| [Banking Customer Analysis](https://github.com/davideincaini/banking-customer-sql) | Feature engineering on relational DB — 28 behavioral indicators per customer in pure SQL, single query on 15k transactions | MySQL |
 
 ### 📈 Statistical Modeling & Visualization
 
@@ -52,16 +55,17 @@ Web Applications              →   React PWAs, deployed on Vercel with CI/CD
 
 | Project | Description | Stack | Deploy |
 |---|---|---|---|
-| [ETF Tracker](https://github.com/davideincaini/ETF_Tracker) | ETF portfolio tracker + smart PAC manager — greedy buy-only rebalancing algorithm, live prices via Yahoo Finance | React · Vite · Tailwind | [Live ↗](https://etf-tracker-three.vercel.app) |
+| [Antigravity — ETF Tracker](https://github.com/davideincaini/ETF_Tracker) | ETF portfolio tracker + smart PAC manager — greedy buy-only rebalancing algorithm, live prices via Yahoo Finance | React · Vite · Tailwind | [Live ↗](https://etf-tracker-three.vercel.app) |
 
 ---
 
 ## Technical Stack
 
-**Languages:** Python · R · JavaScript · HTML/CSS  
+**Languages:** Python · R · SQL · JavaScript · HTML/CSS  
 **ML & Data:** pandas · scikit-learn · PySpark · NumPy · SciPy · SHAP  
+**Databases:** MySQL · relational schema design · multi-table aggregation  
 **Visualization:** matplotlib · seaborn · ggplot2 · Recharts · Tableau  
-**NLP:** spaCy · nltk · TF-IDF · LSTM  
+**NLP:** spaCy · nltk · TF-IDF  
 **Frontend:** React · Vite · Tailwind CSS  
 **Hardware:** ESP32 · MPU6050 · I2C protocols  
 **Tools:** Git · GitHub Actions · Vercel · Google Colab · VS Code · PlatformIO  
