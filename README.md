@@ -1,6 +1,6 @@
 # Davide Incaini
 
-**Process & Manufacturing Engineer** with 7 years of hands-on experience in composite materials production — autoclave processing, defect analysis, quality control, and full production cycle management.
+**Process & Manufacturing Engineer** with 7 years of hands-on experience in composite materials production — R&D, autoclave processing, defect analysis, quality control, and full production cycle management.
 
 Over the past two years, I've been systematically building a data-driven layer on top of my engineering background: statistical process control, predictive analysis, and automation of manufacturing workflows. My goal is to close the gap between shop-floor knowledge and data intelligence.
 
