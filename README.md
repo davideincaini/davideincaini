@@ -11,7 +11,7 @@ Over the past two years, I've been systematically building a data-driven layer o
 ```
 Manufacturing Intelligence    →   SPC, I-MR charts, drift analysis on process data
 Machine Learning              →   Classification, anomaly detection, imbalanced datasets  
-Sensor Systems                →   IMU/MEMS data acquisition and signal processing (ESP32 + MPU6050)
+Sensor Systems                →   IMU/MEMS data acquisition and signal processing (ESP32)
 Statistical Modeling          →   Regression, hypothesis testing, Python & R
 NLP & Text Processing         →   Classification pipelines, end-to-end preprocessing
 Big Data                      →   PySpark distributed pipelines
