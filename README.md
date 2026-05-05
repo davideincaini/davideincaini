@@ -66,7 +66,6 @@ Web Applications              →   React PWAs, deployed on Vercel with CI/CD
 **Databases:** MySQL · relational schema design · multi-table aggregation  
 **Visualization:** matplotlib · seaborn · ggplot2 · Recharts · Tableau  
 **NLP:** spaCy · nltk · TF-IDF  
-**Frontend:** React · Vite · Tailwind CSS  
 **Hardware:** ESP32 · MPU6050 · I2C protocols  
 **Tools:** Git · GitHub Actions · Vercel · Google Colab · VS Code · PlatformIO  
 
