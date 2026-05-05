@@ -1,6 +1,6 @@
 # Davide Incaini
 
-**Process & Manufacturing Engineer** with 7 years of hands-on experience in composite materials production — autoclave processing, defect analysis, quality control, and full production cycle management.
+**Process & Manufacturing Engineer** with 7 years of hands-on experience in composite materials production — autoclave processing, defect analysis, quality control, materials testing and full production cycle management.
 
 Over the past two years, I've been systematically building a data-driven layer on top of my engineering background: statistical process control, predictive analysis, and automation of manufacturing workflows. My goal is to close the gap between shop-floor knowledge and data intelligence.
 
@@ -30,7 +30,7 @@ Web Applications              →   React PWAs, deployed on Vercel with CI/CD
 | [Nesting Calculator](https://github.com/davideincaini/Nesting_calculator) | Prepreg ply nesting optimization at 0° and 45° — minimizes material waste, works offline on iPhone | JavaScript · PWA |
 | [Ply Thickness Calculator](https://github.com/davideincaini/ply_thickness) | Cured ply thickness and fiber volume fraction from material specs — rule of mixtures, material database | JavaScript · PWA |
 | [Stats & Charts](https://github.com/davideincaini/Stats-Chart) | EDA toolkit: descriptive stats, normality testing, outlier detection, correlation matrix, 15 chart types | JavaScript · PWA |
-| [IMU Motion Analysis](https://github.com/davideincaini/imu-motion-analysis) | Inertial sensor data acquisition and signal processing — ESP32 + MPU6050, built from 0 electronics experience | Python · C++ |
+
 
 ### 📊 Machine Learning & Data Science
 
@@ -55,7 +55,7 @@ Web Applications              →   React PWAs, deployed on Vercel with CI/CD
 
 | Project | Description | Stack | Deploy |
 |---|---|---|---|
-| [Antigravity — ETF Tracker](https://github.com/davideincaini/ETF_Tracker) | ETF portfolio tracker + smart PAC manager — greedy buy-only rebalancing algorithm, live prices via Yahoo Finance | React · Vite · Tailwind | [Live ↗](https://etf-tracker-three.vercel.app) |
+| [ETF Tracker](https://github.com/davideincaini/ETF_Tracker) | ETF portfolio tracker + smart PAC manager — greedy buy-only rebalancing algorithm, live prices via Yahoo Finance | React · Vite · Tailwind | [Live ↗](https://etf-tracker-three.vercel.app) |
 
 ---
 
