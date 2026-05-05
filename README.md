@@ -48,7 +48,7 @@ Big Data                      →   PySpark distributed pipelines
 
 ## Technical Stack
 
-**Languages:** Python · R · JavaScript · HTML/CSS  
+**Languages:** Python · R 
 **ML & Data:** pandas · scikit-learn · PySpark · NumPy · SciPy · SHAP  
 **Visualization:** matplotlib · seaborn · ggplot2 · Tableau  
 **NLP:** spaCy · nltk · TF-IDF · LSTM  
